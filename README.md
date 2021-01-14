@@ -1,4 +1,4 @@
-# P.S. The Code is Pushed to Master Branch, not Main Branch
+# P.S. Code is on Master Branch (not Main Branch)
 
 # Flix
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
